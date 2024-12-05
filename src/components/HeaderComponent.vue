@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <div class="container-fluid">
-      <a class="navbar-brand" href="#">FinTrack</a>
+      <router-link to="/" class="navbar-brand">FinTrack</router-link>
       <ul class="navbar-nav">
         <li class="nav-item">
           <router-link to="/" class="nav-link">Главная</router-link>
@@ -19,6 +19,7 @@
     </div>
   </nav>
 </template>
+
 
 <script>
 export default {
