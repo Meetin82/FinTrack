@@ -42,11 +42,11 @@
 1. Убедитесь, что у вас установлен [Node.js](https://nodejs.org/).
 2. Склонируйте репозиторий:
    ```bash
-   git clone https://github.com/username/financial-tracker.git
+   git clone https://github.com/Meetin82/FinTrack.git
    ```
 3. Перейдите в директорию проекта:
    ```bash
-   cd financial-tracker
+   cd FinTrack
    ```
 4. Установите зависимости:
    ```bash
