@@ -1,4 +1,4 @@
-#FinTrack
+# FinTrack
 
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Vue.js](https://img.shields.io/badge/vue.js-%5E3.0-green)
