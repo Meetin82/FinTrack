@@ -63,13 +63,16 @@ FinTrack — это удобное приложение, которое помо
 ## 🖼️ Примеры интерфейса
 
 ### Главный экран
-![Главный экран](https://via.placeholder.com/800x400)
+![Главный экран](https://github.com/user-attachments/assets/048dcb4b-5597-4488-af82-6d040e0b5e49)
 
-### Настройки
-![Настройки](https://via.placeholder.com/800x400)
+### Траты
+![Траты](https://github.com/user-attachments/assets/911046f8-46e5-4812-922e-ecb3bddc4bbc)
 
-### История расходов
-![История расходов](https://via.placeholder.com/800x400)
+### Аналитика
+![Аналитика](https://github.com/user-attachments/assets/8fe77850-528d-458b-9db9-779c85fdc36f)
+
+### Долги
+![Долги](https://github.com/user-attachments/assets/3d6a18dc-3598-4b3b-9b05-648f4143a2f0)
 
 ---
 
